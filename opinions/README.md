@@ -5,3 +5,5 @@
 
 - 전체적인 의견: PR의 *Conversation* 탭에 댓글
 - 특정 문서에 대한 의견: Issue를 새로 열거나, 여기에 `날짜 - 문서명 - 의견` 형식으로 적어도 됩니다.
+
+> 의견 모음 PR은 Draft 상태로 열어 둡니다. **Ready for review / Merge 버튼은 누르지 마세요.**
